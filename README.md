@@ -28,15 +28,15 @@ Desenvolvedor Mobile Júnior
 <img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="30" width="30" title="PLSQL"></img>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="30" width="30" title="ORACLESQL"></img>
 
-*Versionamento*
-
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" heigth="30" width="30" title="GIT"></img>
-<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GITHUB" heigth="30" width="30" title="GITHUB"></img>
-
 *Mobile*
 
 <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="30" width="30" title="REACT"></img>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="30" width="30" title="FLUTTER"></img>
+
+*Versionamento*
+
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" heigth="30" width="30" title="GIT"></img>
+<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GITHUB" heigth="30" width="30" title="GITHUB"></img>
 
 ---
 
