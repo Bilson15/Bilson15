@@ -48,9 +48,13 @@ Desenvolvedor Mobile Júnior
 
 
 
-##### Meu LinkedIn:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Felipe-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-felipe-1232b31b5/)](https://www.linkedin.com/in/gabriel-felipe-1232b31b5/) 
-
-
+<h3 align="center">Contatos:</h3>
+<div align="center">
+  <a href="https://www.instagram.com/gabriel.bilson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23515bd4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielfelipe.bil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-felipe-1232b31b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
+ ---
+  
 ![Snake animation](https://github.com/bilson15/bilson15/blob/output/github-contribution-grid-snake.svg)
