@@ -14,29 +14,29 @@ Desenvolvedor Mobile Júnior
 
 *Front-end*
 
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" heigth="30" width="30" title="CSS3"></img>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" heigth="30" width="30" title="HTML"></img>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JS" heigth="30" width="30" title="JS"></img>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VUE" heigth="30" width="30" title="VUE"></img>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" heigth="40" width="40" title="CSS3"></img>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" heigth="40" width="40" title="HTML"></img>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JS" heigth="40" width="40" title="JS"></img>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VUE" heigth="40" width="40" title="VUE"></img>
 
 *Back-end*
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="JAVA" heigth="30" width="30" title="JAVA"></img>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NODE" heigth="30" width="30" title="NODE"></img>
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="DART" heigth="30" width="30" title="DART"></img>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="POSTGRE" heigth="30" width="30" title="POSTGRE"></img>
-<img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="30" width="30" title="PLSQL"></img>
-<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="30" width="30" title="ORACLESQL"></img>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="JAVA" heigth="40" width="40" title="JAVA"></img>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NODE" heigth="40" width="40" title="NODE"></img>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="DART" heigth="40" width="40" title="DART"></img>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="POSTGRE" heigth="40" width="40" title="POSTGRE"></img>
+<img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="40" width="40" title="PLSQL"></img>
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="40" width="40" title="ORACLESQL"></img>
 
 *Mobile*
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="30" width="30" title="REACT"></img>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="30" width="30" title="FLUTTER"></img>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="40" width="40" title="REACT"></img>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="40" width="40" title="FLUTTER"></img>
 
 *Versionamento*
 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" heigth="30" width="30" title="GIT"></img>
-<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GITHUB" heigth="30" width="30" title="GITHUB"></img>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" heigth="40" width="40" title="GIT"></img>
+<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GITHUB" heigth="40" width="40" title="GITHUB"></img>
 
 ---
 
