@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá, me chamo Gabriel</h1>
 
-<h4 align="center">Estou  cursando Análise e Desenvolvimento de sistemas 4º período 👨‍💻.</h4>
+<h4 align="center">Estou cursando Análise e Desenvolvimento de sistemas 6º período 👨‍💻.</h4>
 
 ---
 
 ### 🎯 Meu objetivo para o próximo nível 🎯
 
-Desenvolvedor Mobile Júnior
+Pós-graduação em dispositivos móveis
 
 ---
 
@@ -22,16 +22,19 @@ Desenvolvedor Mobile Júnior
 *Back-end*
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="JAVA" heigth="40" width="40" title="JAVA"></img>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="JAVA" heigth="40" width="40" title="PHP"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="JAVA" heigth="40" width="40" title="Laravel"></img>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NODE" heigth="40" width="40" title="NODE"></img>
 <img src="https://img.icons8.com/color/48/000000/dart.png" alt="DART" heigth="40" width="40" title="DART"></img>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="POSTGRE" heigth="40" width="40" title="POSTGRE"></img>
 <img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="40" width="40" title="PLSQL"></img>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="40" width="40" title="ORACLESQL"></img>
 
+
 *Mobile*
 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="40" width="40" title="REACT"></img>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="40" width="40" title="FLUTTER"></img>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="40" width="40" title="REACT"></img>
 
 *Versionamento*
 
