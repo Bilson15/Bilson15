@@ -1,45 +1,29 @@
 <h1 align="center">👋 Olá, me chamo Gabriel</h1>
 
-<h4 align="center">Estou cursando Análise e Desenvolvimento de sistemas 6º período 👨‍💻.</h4>
+<h4 align="center">Formado em Análise e Desenvolvimento de sistemas 👨‍💻.</h4>
 
 ---
 
-### 🎯 Meu objetivo para o próximo nível 🎯
-
-Pós-graduação em dispositivos móveis
+### 👨‍💻 Contrato atual 🚀
+Atualmente trabalho com a equipe [Novomundo.com](https://www.novomundo.com.br/), umas das varejistas que mais se destaque no ramo no centro-oeste. Entrei como trainee e hoje atuo como Analista de Sistemas, atualmente trabalhando com Flutter juntamente com o Squad que cuida do aplicativo [Novomundo.com](https://play.google.com/store/apps/details?id=com.kobe.novoMundo&hl=pt_BR&gl=US), sempre entregando meu melhor e focado em evoluir.
 
 ---
 
-### 👨‍💻 Skills em evolução 🚀
+### 👨‍💻 Skills em Foco 🚀
 
-*Front-end*
-
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" heigth="40" width="40" title="CSS3"></img>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" heigth="40" width="40" title="HTML"></img>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JS" heigth="40" width="40" title="JS"></img>
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VUE" heigth="40" width="40" title="VUE"></img>
-
-*Back-end*
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="40" width="40" title="FLUTTER"></img>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="DART" heigth="40" width="40" title="DART"></img>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="JAVA" heigth="40" width="40" title="JAVA"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="JAVA" heigth="40" width="40" title="PHP"></img>
+<img src="https://github.com/Bilson15/Bilson15/assets/69912727/81c07291-7797-4020-8e8b-280209aed57c" alt="JAVA" heigth="40" width="40" title="Laravel"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="JAVA" heigth="40" width="40" title="Laravel"></img>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NODE" heigth="40" width="40" title="NODE"></img>
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="DART" heigth="40" width="40" title="DART"></img>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="POSTGRE" heigth="40" width="40" title="POSTGRE"></img>
+
+
 <img src="http://www.dbamaker.com.br/files//course/36e5898eda.png" alt="PLSQL" heigth="40" width="40" title="PLSQL"></img>
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="40" width="40" title="ORACLESQL"></img>
 
 
-*Mobile*
 
-<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="FLUTTER" heigth="40" width="40" title="FLUTTER"></img>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="REACT" heigth="40" width="40" title="REACT"></img>
-
-*Versionamento*
-
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="GIT" heigth="40" width="40" title="GIT"></img>
-<img src="https://img.icons8.com/plasticine/100/000000/github.png" alt="GITHUB" heigth="40" width="40" title="GITHUB"></img>
 
 ---
 
