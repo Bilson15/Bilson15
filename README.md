@@ -7,6 +7,8 @@
 ### 👨‍💻 Contrato atual 🚀
 Atualmente trabalho com a equipe [Novomundo.com](https://www.novomundo.com.br/), umas das varejistas que mais se destaque no ramo no centro-oeste. Entrei como trainee e hoje atuo como Analista de Sistemas, atualmente trabalhando com Flutter juntamente com o Squad que cuida do aplicativo [Novomundo.com](https://play.google.com/store/apps/details?id=com.kobe.novoMundo&hl=pt_BR&gl=US), sempre entregando meu melhor e focado em evoluir.
 
+GitHub corporativo: https://github.com/gabriel-loiola
+
 ---
 
 ### 👨‍💻 Skills em Foco 🚀
@@ -23,12 +25,10 @@ Atualmente trabalho com a equipe [Novomundo.com](https://www.novomundo.com.br/),
 <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="ORACLESQL" heigth="40" width="40" title="ORACLESQL"></img>
 
 
-
-
 ---
 
 <div align="center">
-  <a href="https://github.com/bilson15">
+  <a href="https://github.com/Bilson15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilson15&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilson15&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
