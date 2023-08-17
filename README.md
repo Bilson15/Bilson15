@@ -29,9 +29,10 @@ GitHub corporativo: https://github.com/gabriel-loiola
 
 <div align="center">
   <a href="https://github.com/Bilson15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bilson15&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilson15&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bilson15&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilson15&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
 
 
 
@@ -41,6 +42,8 @@ GitHub corporativo: https://github.com/gabriel-loiola
   <a href = "mailto:gabrielfelipe.bil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-felipe-1232b31b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
   
  ---
   
